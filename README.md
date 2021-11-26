@@ -1,4 +1,4 @@
 # Dicee-Game-
-Another project that I created as part of my full stack web development bootcamp with Angela Yu from the App Brewery.  
+Another project that I created as part of my full stack web development bootcamp with Angela Yu from the App Brewery. In this project I worked with Math Random and Math Floor methods. The styling sheet was provided by Angela.   
 
 <img src="https://drive.google.com/uc?export=view&id=1XHm4UV0yrZGwa6LJD8weUn1zWblkdMS7" alt="dicee project game screenshot" />
