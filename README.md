@@ -1,4 +1,4 @@
 # Dicee-Game-
-Another project that I created as part of my web development bootcamp with Angela Yu. 
+Another project that I created as part of my full stack web development bootcamp with Angela Yu from the App Brewery.  
 
-link: https://natashaswan.github.io/Dicee-Game-/
+<img scr= "https://drive.google.com/uc?export=view&id=1XHm4UV0yrZGwa6LJD8weUn1zWblkdMS7" alt="dicee project game screenshot">
