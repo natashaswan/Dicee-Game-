@@ -1,6 +1,6 @@
 # Dicee-Game and JavaScript 
 
-> Individual Project for App Brewery Bootcamp. A one-page website imitating a dicee game. I upgraded the website by adding a "Roll Again" button that refreshes the page and throwing the dicee again.
+> Individual Project for App Brewery Bootcamp. A one-page website imitating a dicee game. I upgraded the initial course project by adding a "Roll Again" button that refreshes the page and throws the dicee again.
 
 ### Topics covered: 
 - DOM,
